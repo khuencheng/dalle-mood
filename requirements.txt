@@ -1,0 +1,4 @@
+aiohttp
+python-telegram-bot
+dataclasses_json
+git+https://github.com/yihong0618/BingImageCreator.git
